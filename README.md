@@ -1,5 +1,5 @@
 Author: Sunita Shaw       
-https://wwww.linkedin.com/in/SunitaShaw         
+https://www.linkedin.com/in/SunitaShaw         
 sunitashaw2000@gmail.com
 
 # Conversational-Chat-RAG-Troubleshooting-Use-Case
